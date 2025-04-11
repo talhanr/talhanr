@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Talha Nazir 👋
 
-<!--
-**talhanr/talhanr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Frontend Developer** | React.js • Next.js • JavaScript • TypeScript • Tailwind CSS
 
-Here are some ideas to get you started:
+As a highly skilled and enthusiastic web developer, I possess a strong ability to develop and manage front-end functionalities for complex web applications. With a focus on creating responsive and user-friendly interfaces, I ensure optimal performance and seamless user experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Technical Skills
+
+- **Languages:** JavaScript, TypeScript, HTML, CSS
+- **Frameworks & Libraries:** React.js, Next.js, Redux
+- **Styling:** Tailwind CSS, Sass
+- **Tools & Platforms:** Git, GitHub, CI/CD pipelines, Vercel, Netlify
+- **Others:** RESTful APIs, Responsive Design, Agile Methodologies
+
+---
+
+### 📈 GitHub Stats
+
+![Talha's GitHub stats](https://github-readme-stats.vercel.app/api?username=talhanr&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=talhanr&layout=compact&theme=radical)
+
+---
+
+### 📫 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/talhanr)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red)](mailto:your.email@example.com)
